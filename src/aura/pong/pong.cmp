@@ -1,0 +1,13 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:appHostable">
+	<ltng:require scripts="/resource/jquery,
+                           /resource/d3/d3.min.js"
+                  afterScriptsLoaded="{!c.jsLoaded}" />
+    <aura:attribute name="p1score" type="INTEGER" default="0"/>
+    <aura:attribute name="p2score" type="INTEGER" default="0"/>
+    <div>REAL FIZIX</div>
+    <div>P1 SCORE: {!v.p1score}</div>
+    <div>P2 SCORE: {!v.p2score}</div>
+    <div>{!v.message}</div>
+    <div id="pong"></div>
+    
+</aura:component>

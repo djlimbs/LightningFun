@@ -1,0 +1,70 @@
+[
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad36000000LI78CAG"
+        },
+        "Id": "0Ad36000000LI78CAG",
+        "AuraDefinitionBundleId": "0Ab36000000L4cwCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab36000000L4cwCAC"
+            },
+            "DeveloperName": "pong"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad36000000LI73CAG"
+        },
+        "Id": "0Ad36000000LI73CAG",
+        "AuraDefinitionBundleId": "0Ab36000000L4cwCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab36000000L4cwCAC"
+            },
+            "DeveloperName": "pong"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad36000000LI6oCAG"
+        },
+        "Id": "0Ad36000000LI6oCAG",
+        "AuraDefinitionBundleId": "0Ab36000000L4cwCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab36000000L4cwCAC"
+            },
+            "DeveloperName": "pong"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad36000000LI6tCAG"
+        },
+        "Id": "0Ad36000000LI6tCAG",
+        "AuraDefinitionBundleId": "0Ab36000000L4d1CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab36000000L4d1CAC"
+            },
+            "DeveloperName": "pongGame"
+        },
+        "DefType": "APPLICATION",
+        "Format": "XML"
+    }
+]

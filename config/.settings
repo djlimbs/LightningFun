@@ -1,0 +1,14 @@
+{
+    "projectName": "Lightning Fun",
+    "username": "lightning@fun.com",
+    "id": "4cfc0330-db02-11e5-9b32-7d546f5e4bf9",
+    "namespace": "",
+    "environment": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/Users/victorcarreon/Dropbox/mm-workspace",
+    "subscription": [
+        "ApexClass",
+        "AuraDefinitionBundle",
+        "StaticResource"
+    ]
+}
